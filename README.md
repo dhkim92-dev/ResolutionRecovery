@@ -1,24 +1,24 @@
 # Low Resolution to High Resolution
-=======================================
 - Recovery Low Resolution Image file to High Resolution
 using Subpixel  
-[![https://github.com/elensar92/ResolutionRecovery/blob/master/result/test_result3.png?raw=true]]
+[![test\_result3.png](https://github.com/elensar92/ResolutionRecovery/blob/master/result/test_result3.png)]
 ## Test Enviroments  
-------------------------
+
 - Linux (Ubuntu)  
 - MAC  
 
-### Dependencies  
------------------
+## Dependencies  
+  
 - Python Tensorflow 2.0  
 - Python 3.7  
 - Python Matplotlib  
 - Python Glob  
 - Python Numpy  
 
-#### Optional Dependencies  
+## Optional Dependencies
+    
 - Python scikit-image  
 - Python OpenCV - cv2  
 
-###### Reference  
+## Reference  
 - [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)
